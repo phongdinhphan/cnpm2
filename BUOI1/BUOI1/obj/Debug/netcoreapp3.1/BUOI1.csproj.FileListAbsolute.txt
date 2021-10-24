@@ -1,0 +1,14 @@
+D:\C#\BUOI1\BUOI1\obj\Debug\netcoreapp3.1\BUOI1.csproj.AssemblyReference.cache
+D:\C#\BUOI1\BUOI1\obj\Debug\netcoreapp3.1\BUOI1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BUOI1\BUOI1\obj\Debug\netcoreapp3.1\BUOI1.AssemblyInfoInputs.cache
+D:\C#\BUOI1\BUOI1\obj\Debug\netcoreapp3.1\BUOI1.AssemblyInfo.cs
+D:\C#\BUOI1\BUOI1\obj\Debug\netcoreapp3.1\BUOI1.csproj.CoreCompileInputs.cache
+D:\C#\BUOI1\BUOI1\bin\Debug\netcoreapp3.1\BUOI1.exe
+D:\C#\BUOI1\BUOI1\bin\Debug\netcoreapp3.1\BUOI1.deps.json
+D:\C#\BUOI1\BUOI1\bin\Debug\netcoreapp3.1\BUOI1.runtimeconfig.json
+D:\C#\BUOI1\BUOI1\bin\Debug\netcoreapp3.1\BUOI1.runtimeconfig.dev.json
+D:\C#\BUOI1\BUOI1\bin\Debug\netcoreapp3.1\BUOI1.dll
+D:\C#\BUOI1\BUOI1\bin\Debug\netcoreapp3.1\BUOI1.pdb
+D:\C#\BUOI1\BUOI1\obj\Debug\netcoreapp3.1\BUOI1.dll
+D:\C#\BUOI1\BUOI1\obj\Debug\netcoreapp3.1\BUOI1.pdb
+D:\C#\BUOI1\BUOI1\obj\Debug\netcoreapp3.1\BUOI1.genruntimeconfig.cache
